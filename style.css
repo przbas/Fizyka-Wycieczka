@@ -16,6 +16,7 @@ body{
     right: 0px;
     background-color: rgb(141, 141, 141);
     border-radius: 0px;
+    columns:1;
 }
 
 .naglowek{
@@ -108,9 +109,10 @@ img{
         position: fixed;
         height: 80px;
         width: 100%;
-        top: 0px;
+        bottom: 0px;
         background-color: rgb(141, 141, 141);
         border-radius: 0px;
+	columns:4;
     }
 
     h1{
