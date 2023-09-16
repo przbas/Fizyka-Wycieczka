@@ -16,7 +16,6 @@ body{
     right: 0px;
     background-color: rgb(141, 141, 141);
     border-radius: 0px;
-    columns:1;
 }
 
 .naglowek{
@@ -107,12 +106,12 @@ img{
 
     #sideBar{
         position: fixed;
-        height: 80px;
-        width: 100%;
-        bottom: 0px;
+        height: 100%;
+        width: 200px;
+        top: 0px;
+	right: 0px;
         background-color: rgb(141, 141, 141);
         border-radius: 0px;
-	columns:4;
     }
 
     h1{
