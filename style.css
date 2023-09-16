@@ -110,6 +110,7 @@ img{
         top: 0px;
         background-color: rgb(141, 141, 141);
         border-radius: 0px;
+	flexwrap:flex;
     }
 
     h1{
