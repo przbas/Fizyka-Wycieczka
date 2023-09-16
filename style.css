@@ -98,7 +98,7 @@ img{
 
 
 
-@media (max-width: 1200px) {
+@media (max-width: 768px) {
     #content{
         margin-left: 5px;
         margin-right: 5px;
