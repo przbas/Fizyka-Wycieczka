@@ -110,7 +110,7 @@ img{
         top: 0px;
         background-color: rgb(141, 141, 141);
         border-radius: 0px;
-	column: 4;
+	columns: 4;
     }
 
     h1{
