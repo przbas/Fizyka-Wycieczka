@@ -118,8 +118,12 @@ img{
     h1{
         top: 0px;
         margin-left: 6px;
-        font-size: 20px;
+        font-size: 30px;
         font-family: Roboto;
+    }
+
+    item{
+	width: 100%;
     }
 
     p{
@@ -136,5 +140,6 @@ img{
         padding: 20px;
         margin: 10px;
         font-family: Roboto;
+	flex-wrap: flex;
     }
   }
