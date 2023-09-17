@@ -70,33 +70,6 @@ img{
     padding: 10px;
 }
 
-.autorzy{
-    background-color: rgb(75, 136, 216);
-    position: absolute;
-    width: 90%;
-    height: 500px;
-    bottom: -50px;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); 
-    grid-template-rows: repeat(4, 1fr); 
-    overflow: hidden;
-    border-spacing: 0px;
-}
-
-.autor,.udzial{
-    margin: 0;
-    margin-bottom: 30px;
-    padding: 15px;
-    border-radius: 0px;
-    background-color: rgb(75, 136, 216);
-    min-height: 20px;
-    border: 2px dashed #333;
-}
-
-.autor{
-    justify-content: right;
-}
-
 
 
 @media (max-width: 1000px) {
