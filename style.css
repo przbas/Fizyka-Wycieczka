@@ -101,18 +101,17 @@ img{
 @media (max-width: 768px) {
     #content{
         margin-left: 5px;
-        margin-right: 205px;
+        margin-right: 5px;
     }
 
     #sideBar{
-        position: fixed;
-        height: 100%;
-        width: 200px;
-        top: 0px;
-	right: 0px;
+        position: sticky;
+        height: 90px;
+        width: 90%;
+        bottom: 0px;
+	left: 0px;
         background-color: rgb(141, 141, 141);
         border-radius: 0px;
-	visibility: hidden;
     }
 
     h1{
