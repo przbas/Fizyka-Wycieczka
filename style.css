@@ -112,6 +112,7 @@ img{
 	left: 0px;
         background-color: rgb(141, 141, 141);
         border-radius: 0px;
+	columns: 4;
     }
 
     h1{
