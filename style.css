@@ -112,6 +112,7 @@ img{
 	right: 0px;
         background-color: rgb(141, 141, 141);
         border-radius: 0px;
+	visibility: hidden;
     }
 
     h1{
