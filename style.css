@@ -56,6 +56,10 @@ p{
     font-family: Verdana;
 }
 
+a {
+    text-decoration: none;
+}
+
 .link{
     background-color: rgb(98, 255, 140);
     color: rgb(0, 0, 0);
